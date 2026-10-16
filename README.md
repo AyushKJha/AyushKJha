@@ -1,85 +1,101 @@
-<img src="assets/header.svg" alt="Ayush Kumar Jha — software, systems, and the space between" width="100%">
+<img src="assets/header.svg" alt="Ayush Kumar Jha — Ideas into interfaces. Code into systems." width="100%">
 
 <p align="center">
-  <a href="https://ayush-kumar-jha-v2.onrender.com/">Portfolio</a> &nbsp; / &nbsp;
-  <a href="https://github.com/AyushKJha/profile-2.0/blob/main/CV.pdf">CV</a> &nbsp; / &nbsp;
-  <a href="https://linkedin.com/in/ayush-kumarjha-2683a832a">LinkedIn</a> &nbsp; / &nbsp;
-  <a href="mailto:ayushjha.kviitkgp@gmail.com">Email</a>
+  <a href="https://ayush-kumar-jha-v2.onrender.com/"><b>PORTFOLIO ↗</b></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://github.com/AyushKJha/profile-2.0/blob/main/CV.pdf"><b>CV ↗</b></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="https://linkedin.com/in/ayush-kumarjha-2683a832a"><b>LINKEDIN ↗</b></a> &nbsp;&nbsp; / &nbsp;&nbsp;
+  <a href="mailto:ayushjha.kviitkgp@gmail.com"><b>LET'S TALK ↗</b></a>
 </p>
 
-### I'm Ayush.
+<br>
 
-An Electronics & Communication Engineering student at **SMVIT, Bengaluru**, building web and Android tools, exploring agent systems, and connecting code with hardware. My projects range from a daily journal that keeps records on your device to ESP32 motor control and documented security studies.
+I'm **Ayush**, an Electronics & Communication Engineering student at **SMVIT, Bengaluru**. I build tools for everyday use, experiment with AI-agent systems, and work with hardware when the idea calls for it.
 
-I like projects with something you can inspect: a working interface, a downloadable build, a small experiment, or a clear account of what still needs work.
+My work spans **web & Android**, **agent infrastructure**, and **embedded systems**. Here are a few things you can try, inspect, or explore.
 
-### Selected builds
+<br>
+
+## 01 / Building together
+
+[![AgentPGO — collaboration with Aurorium Nexus](assets/collaboration.svg)](https://github.com/Auro-rium/agent-PGO)
+**A collaboration with [Aurorium Nexus](https://github.com/Auro-rium).**
+
+Profile-guided optimization for AI agents: collect traces, understand cost and latency, evaluate runs, and compare optimization candidates.
+
+`Python` `FastAPI` `OpenTelemetry` `TypeScript SDK`
+
+
+[Shared repository](https://github.com/Auro-rium/agent-PGO) · [My related backend work](https://github.com/AyushKJha/PCO_work)
+
+<br>
+
+## 02 / Selected builds
 
 <table>
 <tr>
 <td width="50%" valign="top">
-<h3>01 / Daily</h3>
+<a href="https://github.com/AyushKJha/Daily_Routine_Tracker"><img src="assets/daily.svg" alt="DAILY" width="100%"></a>
+<p><b>A little better, every day.</b></p>
 <p>A routine journal with custom habits, encrypted local workspaces, weekly reports, and an Android app.</p>
 <p><code>JavaScript</code> <code>IndexedDB</code> <code>Android</code></p>
-<p><a href="https://github.com/AyushKJha/Daily_Routine_Tracker">Source</a> · <a href="https://daily-routine-journal.onrender.com">Website</a> · <a href="https://github.com/AyushKJha/Daily_Routine_Tracker/releases/tag/android-v1.1.0">APK</a></p>
+<p><a href="https://daily-routine-journal.onrender.com"><b>Try Daily ↗</b></a> · <a href="https://github.com/AyushKJha/Daily_Routine_Tracker/releases/tag/android-v1.1.0">APK</a> · <a href="https://github.com/AyushKJha/Daily_Routine_Tracker">Code</a></p>
 </td>
 <td width="50%" valign="top">
-<h3>02 / Fuel</h3>
+<a href="https://github.com/AyushKJha/fuel-app"><img src="assets/fuel.svg" alt="FUEL" width="100%"></a>
+<p><b>Your food, in focus.</b></p>
 <p>A meal journal for photos, food labels, editable portions, and nutrition history across web and Android.</p>
 <p><code>Next.js</code> <code>Supabase</code> <code>Expo</code></p>
-<p><a href="https://github.com/AyushKJha/fuel-app">Source & Android download</a> · <a href="https://fuel-journal.vercel.app">Website</a></p>
+<p><a href="https://fuel-journal.vercel.app"><b>Try Fuel ↗</b></a> · <a href="https://github.com/AyushKJha/fuel-app#android-download">APK</a> · <a href="https://github.com/AyushKJha/fuel-app">Code</a></p>
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-<h3>03 / ForgeRadar</h3>
+<a href="https://github.com/AyushKJha/ForgeRadar"><img src="assets/forge.svg" alt="FORGERADAR" width="100%"></a>
+<p><b>From signal to software.</b></p>
 <p>A local-model workshop that turns community ideas into proposals and bounded prototypes after approval.</p>
 <p><code>Node.js</code> <code>Ollama</code> <code>SQLite</code></p>
-<p><a href="https://github.com/AyushKJha/ForgeRadar">Explore the pipeline</a> · Local-first experiment</p>
+<p><a href="https://github.com/AyushKJha/ForgeRadar"><b>Explore the pipeline ↗</b></a><br><sub>Local-first experiment</sub></p>
 </td>
 <td width="50%" valign="top">
-<h3>04 / Orbit</h3>
-<p>A conversational workspace for job discovery, application materials, and Gmail outreach that requires approval.</p>
+<a href="https://github.com/AyushKJha/orbit-job-agent"><img src="assets/orbit.svg" alt="ORBIT" width="100%"></a>
+<p><b>A workspace for your next move.</b></p>
+<p>Job discovery, application materials, and Gmail outreach with a review step before messages are sent.</p>
 <p><code>Node.js</code> <code>OAuth</code> <code>Ollama</code></p>
-<p><a href="https://github.com/AyushKJha/orbit-job-agent">Source</a> · <a href="https://orbit-job-agent.onrender.com">Invitation-only preview</a></p>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<h3>05 / ESP32 Lab</h3>
-<p>Bluetooth motor control, ultrasonic distance sensing, and experiments from a five-day college hardware lab.</p>
-<p><code>ESP32</code> <code>Arduino / C++</code> <code>Bluetooth</code></p>
-<p><a href="https://github.com/AyushKJha/ESP32_Microcontroller_Car">Browse the sketches</a></p>
-</td>
-<td width="50%" valign="top">
-<h3>06 / Security Studies</h3>
-<p>Four written case studies on network defence, application assessment, system hardening, and data protection.</p>
-<p><code>Network security</code> <code>Secure SDLC</code></p>
-<p><a href="https://github.com/AyushKJha/Cybersecurity_Battlefield-">Read the reports</a></p>
+<p><a href="https://github.com/AyushKJha/orbit-job-agent"><b>Explore Orbit ↗</b></a> · <a href="https://orbit-job-agent.onrender.com">Preview</a><br><sub>Preview requires an invitation</sub></p>
 </td>
 </tr>
 </table>
 
-### On the workbench
+<br>
 
-**[AgentPGO](https://github.com/AyushKJha/PCO_work)** — profiling and evaluating AI-agent runs, then comparing optimization candidates. Backend development in progress.
+## 03 / Beyond the browser
 
-**[Chhath Mahaparv](https://github.com/AyushKJha/chatt-mahaparv)** — a music experience with Bhojpuri copy, Madhubani-inspired visuals, and local audio playback.
+| Project | What you'll find |
+| :--- | :--- |
+| **[ESP32 Lab ↗](https://github.com/AyushKJha/ESP32_Microcontroller_Car)** | Bluetooth motor control, distance sensing, and independent Arduino sketches from a college hardware lab. |
+| **[Security Studies ↗](https://github.com/AyushKJha/Cybersecurity_Battlefield-)** | Four educational reports on network defence, application assessment, system hardening, and data protection. |
+| **[Chhath Mahaparv ↗](https://github.com/AyushKJha/chatt-mahaparv)** | A music experience with Bhojpuri copy, Madhubani-inspired visuals, and local audio playback. |
 
-### Tools I use
+<br>
 
-| Building interfaces | Working with systems | Exploring |
-| --- | --- | --- |
-| JavaScript · TypeScript · React · Next.js | Python · Node.js · SQL · Git | ESP32 · Arduino · OpenCV |
-| HTML · CSS · Expo | Supabase · IndexedDB · FastAPI | Agent workflows · Cybersecurity |
+## 04 / My toolkit
 
-### Beyond the repositories
+**Interfaces** &nbsp; JavaScript · TypeScript · React · Next.js · HTML · CSS · Expo<br>
+**Backend & data** &nbsp; Python · Node.js · FastAPI · SQL · Supabase · IndexedDB<br>
+**Systems & experiments** &nbsp; Git · ESP32 · Arduino · OpenCV · Agent workflows
+
+<details>
+<summary><b>A little more about me</b></summary>
 
 - **B.E. Electronics & Communication**, SMVIT — expected 2028.
-- **[Cloud Computing and Cybersecurity certificates](https://github.com/AyushKJha/Certificates)**, with the documents available to inspect.
+- [Cloud Computing and Cybersecurity certificates](https://github.com/AyushKJha/Certificates).
 - Technical community work at **TechHub, SMVIT**, including a Blue Team introduction for freshers and presenting at Starpitch 2.0.
 
-I'm interested in opportunities where I can build, test, and learn with a team.
-**[Get in touch →](mailto:ayushjha.kviitkgp@gmail.com)**
+</details>
 
-<img src="assets/footer.svg" alt="" width="100%">
+<br>
+
+---
+
+**Have a project worth building together?**<br>
+[Send me a note ↗](mailto:ayushjha.kviitkgp@gmail.com) · [See my portfolio ↗](https://ayush-kumar-jha-v2.onrender.com/)
