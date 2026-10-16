@@ -25,7 +25,7 @@ Profile-guided optimization for AI agents: collect traces, understand cost and l
 `Python` `FastAPI` `OpenTelemetry` `TypeScript SDK`
 
 
-[Shared repository](https://github.com/Auro-rium/agent-PGO) · [My related backend work](https://github.com/AyushKJha/PCO_work)
+[Shared repository](https://github.com/Auro-rium/agent-PGO) · [My related backend work](https://github.com/AyushKJha/PGO_work)
 
 <br>
 
@@ -65,8 +65,8 @@ Profile-guided optimization for AI agents: collect traces, understand cost and l
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top"><a href="https://github.com/AyushKJha/Local-AI-Evaluation-Workbench"><img src="assets/local-ai.svg" alt="Local AI Evaluation Workbench" width="100%"></a><p>A local record keeper for evaluation datasets, model comparisons, and reports.</p><p><a href="https://github.com/AyushKJha/Local-AI-Evaluation-Workbench">Explore Local AI ↗</a></p></td>
-<td width="50%" valign="top"><a href="https://github.com/AyushKJha/Amazon-Wishlist-filter"><img src="assets/wishlist.svg" alt="Wishlist Studio offline prototype" width="100%"></a><p>An offline prototype for importing, searching, and filtering wishlist items.</p><p><a href="https://github.com/AyushKJha/Amazon-Wishlist-filter">Explore Wishlist Studio ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/AyushKJha/Local-AI-Evaluation-Workbench"><img src="assets/local-ai.svg" alt="Local AI Evaluation Workbench" width="100%"></a><p>A local record keeper for evaluation datasets, model comparisons, and reports.</p><p><a href="https://github.com/AyushKJha/Local-AI-Evaluation-Workbench">Explore Local AI ↗</a> · <a href="https://github.com/AyushKJha/Local-AI-Evaluation-Workbench/blob/main/docs/USER_GUIDE.pdf">User guide</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/AyushKJha/Amazon-Wishlist-filter"><img src="assets/wishlist.svg" alt="Wishlist Studio offline prototype" width="100%"></a><p>An offline prototype for importing, searching, and filtering wishlist items.</p><p><a href="https://github.com/AyushKJha/Amazon-Wishlist-filter">Explore Wishlist Studio ↗</a> · <a href="https://github.com/AyushKJha/Amazon-Wishlist-filter/blob/main/docs/USER_GUIDE.pdf">User guide</a></p></td>
 </tr>
 </table>
 
