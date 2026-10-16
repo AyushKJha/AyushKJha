@@ -64,6 +64,10 @@ Profile-guided optimization for AI agents: collect traces, understand cost and l
 <p><a href="https://github.com/AyushKJha/orbit-job-agent"><b>Explore Orbit ↗</b></a> · <a href="https://orbit-job-agent.onrender.com">Preview</a><br><sub>Preview requires an invitation</sub></p>
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top"><a href="https://github.com/AyushKJha/Local-AI-Evaluation-Workbench"><img src="assets/local-ai.svg" alt="Local AI Evaluation Workbench" width="100%"></a><p>A local record keeper for evaluation datasets, model comparisons, and reports.</p><p><a href="https://github.com/AyushKJha/Local-AI-Evaluation-Workbench">Explore Local AI ↗</a></p></td>
+<td width="50%" valign="top"><a href="https://github.com/AyushKJha/Amazon-Wishlist-filter"><img src="assets/wishlist.svg" alt="Wishlist Studio offline prototype" width="100%"></a><p>An offline prototype for importing, searching, and filtering wishlist items.</p><p><a href="https://github.com/AyushKJha/Amazon-Wishlist-filter">Explore Wishlist Studio ↗</a></p></td>
+</tr>
 </table>
 
 <br>
