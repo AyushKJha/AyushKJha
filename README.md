@@ -38,7 +38,7 @@ Profile-guided optimization for AI agents: collect traces, understand cost and l
 <p><b>A little better, every day.</b></p>
 <p>A routine journal with custom habits, encrypted local workspaces, weekly reports, and an Android app.</p>
 <p><code>JavaScript</code> <code>IndexedDB</code> <code>Android</code></p>
-<p><a href="https://daily-routine-journal.onrender.com"><b>Try Daily ↗</b></a> · <a href="https://github.com/AyushKJha/Daily_Routine_Tracker/releases/tag/android-v1.1.0">APK</a> · <a href="https://github.com/AyushKJha/Daily_Routine_Tracker">Code</a></p>
+<p><a href="https://daily-routine-journal.onrender.com"><b>Try Daily ↗</b></a> · <a href="https://github.com/AyushKJha/Daily_Routine_Tracker/releases/download/android-v1.4.0/Daily-1.4.0.apk">Latest APK · 1.4.0</a> · <a href="https://github.com/AyushKJha/Daily_Routine_Tracker">Code</a></p>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/AyushKJha/fuel-app"><img src="assets/fuel.svg" alt="FUEL" width="100%"></a>
